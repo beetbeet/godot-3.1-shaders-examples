@@ -16,8 +16,5 @@ _global_script_class_icons={
 [application]
 
 config/name="godot-3.1-shaders-examples"
+run/main_scene="res://scenes/example-level-worldOne.tscn"
 config/icon="res://icon.png"
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
